@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.colombiagolapp.example"
+        versionCode = "1" 
+        version     = "0.0.1" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Colombiagol App</name>
+
+    <description>
+        Noticias, videos e imagenes de todo lo relacionado al futbol colombiano
+    </description>
+
+    <author href="https://example.colombiagolapp.com" email="jpataquivac@gmail.com">
+        Hardeep Shoker 
+    </author>
+    <icon src="icon.png" />
+    <gap:splash src="splash.png" />0
+
+</widget>
