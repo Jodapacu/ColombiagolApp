@@ -7,14 +7,14 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Colombiagol App</name>
+    <name>Colombiagol</name>
 
     <description>
         Noticias, videos e imagenes de todo lo relacionado al futbol colombiano
     </description>
 
     <author href="https://example.colombiagolapp.com" email="jpataquivac@gmail.com">
-        Hardeep Shoker 
+        Jose David Pataquiva Cubides 
     </author>
     <icon src="icon.png" />
     <gap:splash src="splash.png" />0
